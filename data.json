@@ -1,12 +1,17 @@
 {
-  "test": [
+  "projects": [
     {
       "id": 1,
-      "data": "text"
+      "name": "ShoeHut",
+      "description": "Website for a shoe store, with a responsive design and simple navigation. User login, shopping cart, and admin panel implemented.",
+      "image": "shoehut.jpg",
+      "technologies": ["react", "redux", "draft.js", "exios"],
+      "demo": "https://shoehut.onrender.com",
+      "code": "https://github.com/yatskiv-yurij/ShoeHut/tree/frontend"
     },
     {
       "id": 2,
-      "data": "text2"
+      "name": ""
     }
   ]
 }
