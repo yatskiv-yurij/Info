@@ -6,7 +6,7 @@
       "description": "Website for a shoe store with a responsive design and easy navigation. User login, shopping cart, and admin panel are implemented, as well as sorting, the ability to leave reviews, and select the product you like.",
       "image": "shoehut.jpg",
       "technologies": ["react", "redux", "draft.js", "axios"],
-      "demo": "https://shoehut.onrender.com",
+      "demo": "https://shoehut-front.onrender.com/",
       "code": "https://github.com/yatskiv-yurij/ShoeHut/tree/frontend",
       "section": "react"
     },
