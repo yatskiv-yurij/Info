@@ -3,15 +3,83 @@
     {
       "id": 1,
       "name": "ShoeHut",
-      "description": "Website for a shoe store, with a responsive design and simple navigation. User login, shopping cart, and admin panel implemented.",
+      "description": "Website for a shoe store with a responsive design and easy navigation. User login, shopping cart, and admin panel are implemented, as well as sorting, the ability to leave reviews, and select the product you like.",
       "image": "shoehut.jpg",
-      "technologies": ["react", "redux", "draft.js", "exios"],
+      "technologies": ["react", "redux", "draft.js", "axios"],
       "demo": "https://shoehut.onrender.com",
-      "code": "https://github.com/yatskiv-yurij/ShoeHut/tree/frontend"
+      "code": "https://github.com/yatskiv-yurij/ShoeHut/tree/frontend",
+      "section": "react"
     },
     {
       "id": 2,
-      "name": ""
-    }
+      "name": "YourMeal"
+      "description": "Website for a fast food restaurant. Created a home page with maps for a detailed product description. Implemented data retrieval from the database, sorting.",
+      "image": "youmeal.jpg",
+      "technologies": ["angular", "rxjs", "typescript", "swiper"],
+      "demo": "https://yourmeal-2rrl.onrender.com/",
+      "code": "https://github.com/yatskiv-yurij/YourMeal",
+      "section": "angular"
+    },
+    {
+      "id": 3,
+      "name": "Smile"
+      "description": "A business card website for a dental clinic with the ability to make an appointment. The work was carried out in a team with a back-end developer. The main page and admin panel with the ability to edit data were created.",
+      "image": "smile.jpg",
+      "technologies": ["react", "redux", "hook form + yup", "google maps api", "axios"],
+      "demo": "https://smile-mein.onrender.com/",
+      "code": "https://github.com/yatskiv-yurij/Smile/tree/main/client",
+      "section": "react"
+    },
+    {
+      "id": 4,
+      "name": "Burger House"
+      "description": "The home page of a fast food restaurant. The page displays a menu of burgers from a database with the ability to change the currency, and also includes a form for placing an order.",
+      "image": "burger.jpg",
+      "technologies": ["angular", "rxjs", "typescript"],
+      "demo": "https://burgers-la4i.onrender.com/",
+      "code": "https://github.com/yatskiv-yurij/burgers",
+      "section": "angular"
+    },
+    {
+      "id": 5,
+      "name": "Work Czech Republic"
+      "description": "Business card for a recruitment company in the Czech Republic. A single-page website with an attractive and responsive design.",
+      "image": "workczech.jpg",
+      "technologies": ["html", "scss", "javascript"],
+      "demo": "https://yatskiv-yurij.github.io/Work-Czech-Republic/",
+      "code": "https://github.com/yatskiv-yurij/Work-Czech-Republic",
+      "section": "html"
+    },
+    {
+      "id": 6,
+      "name": "IndeVets"
+      "description": "Veterinary clinic website. Attractive design with animated elements and adaptability to different devices.",
+      "image": "indevets.jpg",
+      "technologies": ["html", "scss", "javascript"],
+      "demo": "https://yatskiv-yurij.github.io/IndeVets/",
+      "code": "https://github.com/yatskiv-yurij/IndeVets",
+      "section": "html"
+    },
+    {
+      "id": 7,
+      "name": "Bezu-re"
+      "description": "The landing page of a financial company is created with elements of interesting design solutions and adaptive design for any device.",
+      "image": "bezure.jpg",
+      "technologies": ["gulp", "html", "scss", "javascript"],
+      "demo": "https://yatskiv-yurij.github.io/Bezure-pages/",
+      "code": "https://github.com/yatskiv-yurij/Bezure",
+      "section": "html"
+    },
+    {
+      "id": 8,
+      "name": "Britlex"
+      "description": "Landing page for a company that teaches various foreign languages. Responsive design and use of flex and grid solutions..",
+      "image": "britlex.jpg",
+      "technologies": ["html", "scss", "javascript"],
+      "demo": "https://yatskiv-yurij.github.io/Britlex/",
+      "code": "https://github.com/yatskiv-yurij/Britlex",
+      "section": "html"
+    },
+    
   ]
 }
